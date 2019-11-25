@@ -15,6 +15,17 @@ make sure you have pip3 install tensorflow-gpu==1.14
 
 First clone https://github.com/tensorflow/models.git into a directory (i used /home/alexiev/dev)
 
+Then install the protoc zip file from https://github.com/protocolbuffers/protobuf/releases/tag/v3.10.1
+in downloads folder run:
+sudo unzip -o protoc-3.7.1-linux-x86_64.zip -d /usr/local bin/protoc
+sudo unzip -o protoc-3.7.1-linux-x86_64.zip -d /usr/local 'include/*'
+
+inside tensorflow/models/research/ run:
+sudo protoc --python_out=. object_detection/protos/*.proto
+
+Inside the tensorflow/models/research folder run:
+sudo python3 setup.py install
+
 Then add the following to your PYTHONPATH
 
 sudo gedit ~/.bashrc #open bashrc file

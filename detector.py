@@ -90,7 +90,10 @@ def run_inference_for_single_image(image, graph):
 
 
 
-cap = cv2.VideoCapture(0)
+#cap = cv2.VideoCapture(0)
+
+cap = cv2.VideoCapture("nvcamerasrc ! video/x-raw(memory:NVMM), width=(int)640, height=(int)480, format=(string)I420, framerate=(fraction)30/1 ! nvvidconv flip-method=2 ! video/x-raw, format=(string)I420 ! videoconvert ! video/x-raw, format=(string)BGR ! appsink")
+
 try:
     with detection_graph.as_default():
         with tf.Session() as sess:
