@@ -18,7 +18,7 @@ First clone https://github.com/tensorflow/models.git into a directory (i used /h
 Then add the following to your PYTHONPATH
 
 sudo gedit ~/.bashrc #open bashrc file
-then add this new line to the end of your bashrc file
+then add this new line to the end of your bashrc  file
 export
 PYTHONPATH=$PYTHONPATH=/home/alexiev/dev/tensorflow/models/research:/home/alexiev/dev/tensorflow/models/research/slim
 then restart then bashrc to make it work
