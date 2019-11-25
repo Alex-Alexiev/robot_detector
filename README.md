@@ -1,7 +1,6 @@
-# robot_detector
+# FRC Robot Detector with Tensorflow v1 
 
-![Image of detector]
-(https://photos.app.goo.gl/tWnPzaBLk8mMTV7g6)
+(https://ibb.co/42m0xZ2)
 
 Using transfer learning on Google's pre-trained inference-graphs for fast FRC robot localization.
 
