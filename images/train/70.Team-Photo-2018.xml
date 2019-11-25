@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>70.Team-Photo-2018.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/train_images/frc/70.Team-Photo-2018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>301</ymin>
+			<xmax>444</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>3.FIRST%20Robot%20Championship%20800x680.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/test_images/frc/3.FIRST%20Robot%20Championship%20800x680.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>25</ymin>
+			<xmax>470</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

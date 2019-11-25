@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>7.rtn_315408.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/test_images/frc/7.rtn_315408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>185</ymin>
+			<xmax>568</xmax>
+			<ymax>428</ymax>
+		</bndbox>
+	</object>
+</annotation>

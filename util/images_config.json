@@ -1,0 +1,16 @@
+{
+    "Records": [
+        {
+            "keywords": "frc",
+            "limit": 1,
+            "format": "jpg",
+            "output_directory": "../images"
+        },
+        {
+            "keywords": "frc robot",
+            "limit": 1,
+            "format": "jpg",
+            "output_directory": "../images"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>5.houston-pr-robot.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/test_images/frc/5.houston-pr-robot.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>269</ymin>
+			<xmax>698</xmax>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+</annotation>

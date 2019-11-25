@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>58.FXVB1PWJA8JOU7L.LARGE.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/train_images/frc/58.FXVB1PWJA8JOU7L.LARGE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>222</ymin>
+			<xmax>617</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>23.dul1x0505hd01.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/train_images/frc/23.dul1x0505hd01.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>1</ymin>
+			<xmax>643</xmax>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+</annotation>

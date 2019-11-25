@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frc</folder>
+	<filename>1.robot-2019.jpg</filename>
+	<path>/home/alexiev/dev/vision/object_detection/test_images/frc/1.robot-2019.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>30</ymin>
+			<xmax>563</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>
